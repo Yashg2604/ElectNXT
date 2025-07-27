@@ -25,7 +25,8 @@ ElectNXT is a blockchain-based campus voting platform built using modern fronten
 - **Language**: TypeScript  
 - **Styling**: Tailwind CSS + PostCSS  
 - **Linting**: ESLint  
-- **Config**: TSConfig, Vite, PostCSS  
+- **Config**: TSConfig, Vite, PostCSS
+- **Blockchain**: Solidity Smart Contracts,IPFS Pinata Cloud for Storage
 
 ---
 
