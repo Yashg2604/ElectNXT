@@ -48,25 +48,23 @@ npm install
 npm run dev
 
 ## Folder Structure
-
 ElectNXT/
-
-├── public/                 # Public assets
-├── src/                    # Main frontend source code (React/TS)
-│   ├── components/         # Reusable UI components
-│   ├── pages/              # Route-based page components
-│   ├── hooks/              # Custom React hooks
-│   ├── utils/              # Utility functions/helpers
-│   ├── App.tsx             # Root React component
-│   └── main.tsx            # App entry point
-├── index.html              # Root HTML file
-├── package.json            # Project metadata and dependencies
-├── package-lock.json       # Exact versions of dependencies
-├── tailwind.config.js      # Tailwind CSS config
-├── postcss.config.js       # PostCSS config for Tailwind
-├── tsconfig.json           # TypeScript config
-├── tsconfig.app.json       # TS config for app
-├── tsconfig.node.json      # TS config for Node parts (if any)
-├── vite.config.ts          # Vite build tool config
-└── README.md               # Project documentation
+├── public/                     # Public assets
+├── src/                        # Main frontend source code (React/TS)
+│   ├── components/             # Reusable UI components
+│   ├── pages/                  # Route-based page components
+│   ├── hooks/                  # Custom React hooks
+│   ├── utils/                  # Utility functions/helpers
+│   ├── App.tsx                 # Root React component
+│   └── main.tsx                # App entry point
+├── index.html                  # Root HTML file
+├── package.json                # Project metadata and dependencies
+├── package-lock.json           # Exact versions of dependencies
+├── tailwind.config.js          # Tailwind CSS config
+├── postcss.config.js           # PostCSS config for Tailwind
+├── tsconfig.json               # TypeScript config
+├── tsconfig.app.json           # TS config for app
+├── tsconfig.node.json          # TS config for Node parts (if any)
+├── vite.config.ts              # Vite build tool config
+└── README.md                   # Project documentation
 
