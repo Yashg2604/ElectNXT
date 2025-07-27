@@ -1,4 +1,7 @@
 # NOTE TO OUR JUDGES:- PLEASE WATCH THE DEMO VIDEO FIRST FOR BETTER UNDERSTANDING OF THE FLOW.
+## Demo link- https://drive.google.com/file/d/1AUXvkemvf8uAfN2Vd7PX89M6tjCOi84I/view?usp=sharing
+## https://elect-nxt.vercel.app/
+Note- CampusBot will not work on vercel as we used a custom api key. You will have to add your own API key and run it on localhost to make it work.
 
 
 # ElectNXT
