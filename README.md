@@ -6,7 +6,16 @@
 **Version:** 1.0.0  
 **Description:** Blockchain-based campus voting platform.
 
-ElectNXT is a blockchain-based campus voting platform built using modern frontend tools like Vite, TailwindCSS, and TypeScript. This platform ensures secure, transparent, and tamper-proof elections for educational institutions.
+ElectNXT is a blockchain-based voting platform ensuring:
+Immutable NFT-based Digital Voter IDs
+On-chain vote recording for full auditability
+Anonymized, verifiable ballots
+Real-time result dashboards
+QR-based hybrid check-in for offline support
+AI-powered multilingual CampusBot for voter guidance
+Smart Campaign Pages with manifesto immutability
+
+
 
 ---
 
