@@ -47,7 +47,7 @@ const CampusBot: React.FC = () => {
   const sendMessageToGemini = async (userMessage: string) => {
     try {
       const response = await fetch(
-       'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyB7DYDi2yVZ8NZDDvnQDlhnoDsvwBrRI10',
+       'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key="YOUR API KEY"',
 {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
