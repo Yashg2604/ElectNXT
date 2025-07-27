@@ -7,13 +7,13 @@
 **Description:** Blockchain-based campus voting platform.
 
 ElectNXT is a blockchain-based voting platform ensuring:
-Immutable NFT-based Digital Voter IDs
-On-chain vote recording for full auditability
-Anonymized, verifiable ballots
-Real-time result dashboards
-QR-based hybrid check-in for offline support
-AI-powered multilingual CampusBot for voter guidance
-Smart Campaign Pages with manifesto immutability
+- Immutable NFT-based Digital Voter IDs
+- On-chain vote recording for full auditability
+- Anonymized, verifiable ballots
+- Real-time result dashboards
+- QR-based hybrid check-in for offline support
+- AI-powered multilingual CampusBot for voter guidance
+- Smart Campaign Pages with manifesto immutability
 
 
 
