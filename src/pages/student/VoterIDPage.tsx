@@ -26,7 +26,7 @@ export default function VoterIDPage() {
   };
 
   const generateQRCode = () => {
-    // In a real app, this would generate an actual QR code
+    
     return `data:image/svg+xml,${encodeURIComponent(`
       <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
         <rect width="200" height="200" fill="white"/>
@@ -79,7 +79,7 @@ export default function VoterIDPage() {
                 <div className="space-y-3 text-left">
                   <div className="flex justify-between">
                     <span className="text-text-secondary">Name:</span>
-                    <span className="text-white">{user?.name || 'Student User'}</span>
+                    <span className="text-white">{'Yash Gupta' || 'Yash Gupta'}</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-text-secondary">Wallet:</span>
@@ -132,7 +132,7 @@ export default function VoterIDPage() {
                           {user?.name?.charAt(0) || 'S'}
                         </span>
                       </div>
-                      <h4 className="text-xl font-bold text-center">{user?.name || 'Student User'}</h4>
+                      <h4 className="text-xl font-bold text-center">{'Yash Gupta' || 'Yash Gupta'}</h4>
                       <p className="text-center text-sm opacity-90">Verified Voter</p>
                     </div>
                     
@@ -143,7 +143,7 @@ export default function VoterIDPage() {
                       </div>
                       <div className="flex justify-between">
                         <span>Network:</span>
-                        <span>Ethereum</span>
+                        <span>Sepolia</span>
                       </div>
                       <div className="flex justify-between">
                         <span>Status:</span>
