@@ -33,7 +33,7 @@ ElectNXT is a blockchain-based campus voting platform built using modern fronten
 
 ### 1. Clone the Repo
 
-git clone https://github.com/YOUR_USERNAME/ElectNXT.git
+git clone https://github.com/Yashg2604/ElectNXT.git
 cd ElectNXT
 
 ### 2. CampusBot activation
