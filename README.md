@@ -60,6 +60,7 @@ npm install
 npm run dev
 
 ## Folder Structure
+```
 ElectNXT/
 ├── public/                     # Public assets
 ├── src/                        # Main frontend source code (React/TS)
@@ -79,3 +80,4 @@ ElectNXT/
 ├── tsconfig.node.json          # TS config for Node parts (if any)
 ├── vite.config.ts              # Vite build tool config
 └── README.md                   # Project documentation
+```
